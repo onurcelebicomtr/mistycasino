@@ -1,14 +1,14 @@
 *{margin:0;padding:0;box-sizing:border-box}
 :root{
-  --navy:#6E6E6E;
-  --navy-light:#7D7D7D;
+  --navy:#1a1a2e;
+  --navy-light:#16213e;
   --green:#2E7D52;
   --green-dark:#236B43;
   --white:#ffffff;
-  --gray:#f4f6f8;
+  --gray:#f0f4f2;
   --text:#2c3e50;
   --text-light:#7f8c8d;
-  --border:#e2e8f0;
+  --border:#d8e4dc;
   --radius:12px;
   --shadow:0 2px 12px rgba(27,40,56,0.08);
   --font-heading:system-ui,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
